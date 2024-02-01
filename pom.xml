@@ -46,6 +46,11 @@
 
   <inceptionYear>1999</inceptionYear>
 
+  <properties>
+    <sonar.organization>jbelis</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+
   <developers>
 
     <developer>
